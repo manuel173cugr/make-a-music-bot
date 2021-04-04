@@ -10,8 +10,6 @@ is a Discord Music Bot  built with discord.js & uses Command Handler from [disco
 
 ## 🚀 Getting Started
 
-If deploying to Heroku make sure to create config variables
-
 ```
 git clone https://github.com/eritislami/evobot.git
 cd evobot
@@ -20,11 +18,15 @@ npm install
 
 After installation finishes you can use `node index.js` to start the bot.
 
+## ⚠️ how get your token? ⚠️
+go [here](https://discord.com/developers/applications) and click new application set the bot name and go to  the bot click add bot and click Yes do it now copy the token
+
 ## ⚙️ Configuration
 
 Copy or Rename `config.json.example` to `config.json` and fill out the values:
 
 ⚠️ **Note: Never commit or share your token or api keys publicly** ⚠️
+         ⚠️ **how get your token?** **go [here](https://discord.com/developers/applications) and click new application set the bot name and go to  the bot click add bot and click Yes do it now copy the token⚠️
 
 ```json
 {
@@ -32,7 +34,7 @@ Copy or Rename `config.json.example` to `config.json` and fill out the values:
   "YOUTUBE_API_KEY": "",
   "SOUNDCLOUD_CLIENT_ID": "",
   "MAX_PLAYLIST_SIZE": 10,
-  "PREFIX": "/",
+  "PREFIX": "!",
   "PRUNING": false,
   "LOCALE": "en",
   "DEFAULT_VOLUME": 100,
