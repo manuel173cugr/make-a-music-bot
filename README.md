@@ -1,9 +1,5 @@
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/eritislami/evobot)
-
-![logo](https://repository-images.githubusercontent.com/186841818/8aa95700-7730-11e9-84be-e80f28520325)
-
-# 🤖 EvoBot (Discord Music Bot)
-> EvoBot is a Discord Music Bot built with discord.js & uses Command Handler from [discordjs.guide](https://discordjs.guide)
+# 🤖 make your (Discord Music bot)
+is a Discord Music Bot  built with discord.js & uses Command Handler from [discordjs.guide](https://discordjs.guide)
 
 ## Requirements
 
@@ -57,17 +53,17 @@ Currently available locales are:
 
 ## 📝 Features & Commands
 
-> Note: The default prefix is '/'
+> Note: The default prefix is '!'
 
-* 🎶 Play music from YouTube via url
+* 🎶 Play music from YouTube with the youtube url
 
-`/play https://www.youtube.com/watch?v=GLvohMXgcBo`
+`/play https://www.youtube.com/watch?v=(the music)`
 
-* 🔎 Play music from YouTube via search query
+* 🔎 Play music from YouTube with the search tool
 
 `/play under the bridge red hot chili peppers`
 
-* 🎶 Play music from Soundcloud via url
+* 🎶 Play music from Soundcloud music url
 
 `/play https://soundcloud.com/blackhorsebrigade/pearl-jam-alive`
 
@@ -83,7 +79,7 @@ Examples: `1` or `1,2,3`
 
 `/playlist https://www.youtube.com/watch?v=YlUKcNNmywk&list=PL5RNCwK3GIO13SR_o57bGJCEmqFAwq82c`
 
-* 🔎 Play youtube playlists via search query
+* 🔎 Play youtube playlist 
 
 `/playlist linkin park meteora`
 * Now Playing (/np)
@@ -110,15 +106,6 @@ Examples: `1` or `1,2,3`
 
 ![reactions](https://i.imgur.com/9S7Omf9.png)
 
-## 🤝 Contributing
-
-1. [Fork the repository](https://github.com/eritislami/evobot/fork)
-2. Clone your fork: `git clone https://github.com/your-username/evobot.git`
-3. Create your feature branch: `git checkout -b my-new-feature`
-4. Commit your changes: `git commit -am 'Add some feature'`
-5. Push to the branch: `git push origin my-new-feature`
-6. Submit a pull request
-
 ## 📝 Credits
 
-[@iCrawl](https://github.com/iCrawl) For the queue system used in this application which was adapted from [@iCrawl/discord-music-bot](https://github.com/iCrawl/discord-music-bot)
+[@manuel173cugr](https://github.com/manuel173cugr) The bot builder
