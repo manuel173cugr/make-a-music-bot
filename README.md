@@ -19,7 +19,7 @@ npm install
 After installation finishes you can use `node index.js` to start the bot.
 
 ## ⚠️ how get your token? ⚠️
-go [here](https://discord.com/developers/applications) and click new application set the bot name and go to  the bot click add bot and click Yes do it now copy the token
+go [here](https://discord.com/developers/applications) and click new application, set the bot name and go to the bot, click add bot and click Yes do it and now copy the token
 
 ## ⚙️ Configuration
 
